@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frasca/static/css/main.7a45dd5a.css",
+    "main.js": "/frasca/static/js/main.5c437410.js",
+    "static/media/frascaShortVideo.gif": "/frasca/static/media/frascaShortVideo.abe6cf57a89656808bfd.gif",
+    "static/media/tecnica.gif": "/frasca/static/media/tecnica.e06885903f5e0c1717a0.gif",
+    "static/media/ferramentas.JPG": "/frasca/static/media/ferramentas.4ed51089bdfd7e6ccba0.JPG",
+    "static/media/dente.JPG": "/frasca/static/media/dente.b4fdd33faf7a13c43ac6.JPG",
+    "static/media/dentadura.JPG": "/frasca/static/media/dentadura.1b4ac1cead122fc5f711.JPG",
+    "static/media/sala.JPG": "/frasca/static/media/sala.82e485b8f6879fb3aa2b.JPG",
+    "static/media/sorriso.png": "/frasca/static/media/sorriso.485b441b2385f0cd9b8d.png",
+    "static/media/romaSposa.png": "/frasca/static/media/romaSposa.d023faf2d91b72c8c9a6.png",
+    "static/media/logoFrasca-removebg-preview.png": "/frasca/static/media/logoFrasca-removebg-preview.223ae8453def949b56f2.png",
+    "static/media/lato600.ttf": "/frasca/static/media/lato600.135add07f318dbe4ab99.ttf",
+    "static/media/novita.png": "/frasca/static/media/novita.712b0edd6b622215fed6.png",
+    "index.html": "/frasca/index.html",
+    "main.7a45dd5a.css.map": "/frasca/static/css/main.7a45dd5a.css.map",
+    "main.5c437410.js.map": "/frasca/static/js/main.5c437410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a45dd5a.css",
+    "static/js/main.5c437410.js"
+  ]
+}
